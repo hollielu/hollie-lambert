@@ -1,4 +1,4 @@
-baseURL = "https://www.hollielambert.com"
+baseURL = "http://www.hollielambert.com"
 languageCode = "en-us"
 title = "Hollie Lambert"
 theme="archie"
