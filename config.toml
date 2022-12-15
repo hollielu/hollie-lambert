@@ -17,7 +17,7 @@ paginate = 3 # articles per page
 [params]
 	mode = "toggle" # color-mode → light, dark, toggle or auto
 	useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "I like to build things. Mostly on the internet."
+	subtitle = "Software engineer & creative soul exploring the world. 🌎"
 	favicon = "favicon.ico"
 
 # Social Tags
@@ -31,6 +31,16 @@ url = "https://github.com/hollielu"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/hollielulambert"
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:hollielulambert@gmail.com"
+
+[[params.social]]
+name = "Newsletter"
+icon = "heart"
+url = "https://tinyletter.com/hollielambert"
 
 # Main menu Items
 
