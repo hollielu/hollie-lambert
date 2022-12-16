@@ -1,2 +1,6 @@
 github.com/hollielu/archie v0.0.0-20221214003848-67595fa714fe h1:3WZSe3HZWNqeY7KVcNvODxo7lyIWWdWgL8AyxZ4sB4U=
 github.com/hollielu/archie v0.0.0-20221214003848-67595fa714fe/go.mod h1:MM9znAnl0IcuP2+Wj2gtQSopv1BQeqFyc1/XI4xHKUg=
+github.com/hollielu/archie v0.0.0-20221215234239-d69efffd8eeb h1:UY4ufLeN++WLqgU6D3p/l1IoPmsci87ShARxeSmu89c=
+github.com/hollielu/archie v0.0.0-20221215234239-d69efffd8eeb/go.mod h1:MM9znAnl0IcuP2+Wj2gtQSopv1BQeqFyc1/XI4xHKUg=
+github.com/hollielu/archie v0.0.0-20221216000332-cff010ad9753 h1:JooyuaFnWJUmlsnwBHkB8Fk40rSVyMJFEJT91pdh8zk=
+github.com/hollielu/archie v0.0.0-20221216000332-cff010ad9753/go.mod h1:MM9znAnl0IcuP2+Wj2gtQSopv1BQeqFyc1/XI4xHKUg=
